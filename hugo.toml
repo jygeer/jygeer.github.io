@@ -325,3 +325,7 @@ listStyle = "summary"  # options: simple, summary
 
 [params.experience]
 showJobCard = true # Set to false to hide the job card
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
